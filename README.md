@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-de-un-amor-prohibido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Promesas de un amor prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-de-un-amor-prohibido/) |
+| **Get License** | [Secure Licensing Rights for Promesas de un amor prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-de-un-amor-prohibido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche nos llama y tú sabes muy bien
+> Con ese vestido negro que te queda al cien
+> Sabemo' que es prohibido, pero se siente bien
+> Tonight you're my reina, we're breaking the rules again
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
