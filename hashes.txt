@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Promesas de un amor prohibido
+
+This log tracks the cryptographic history and versioning for the song **Promesas de un amor prohibido** (promesas-de-un-amor-prohibido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T14:09:58.389839 | `v1` | `32012e47cd44015965ef93baddb37c8462ba77b5ec16663a4f0b7a22ceedad28` | `a5b4cfb6339a995f03725f43b77993ad00fe7a4fdddb0e1c6c26f495ec5c3f0a` | `2026-06-14_promesas-de-un-amor-prohibido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
